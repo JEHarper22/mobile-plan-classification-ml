@@ -75,6 +75,5 @@ results/ – evaluation outputs
 Clone the repository and install dependencies.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mobile-plan-classification-ml.git
-cd mobile-plan-classification-ml
+git clone [https://github.com/JEHarper22/mobile-plan-classification-ml]
 pip install -r requirements.txt
